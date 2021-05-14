@@ -1,3 +1,15 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/LukNasc/module-federation-webpack-app.git
+[submodule "header"]
+	path = header
+	url = https://github.com/LukNasc/webpack-module-federation-header.git
+[submodule "webpack-module-federation-banner"]
+	path = webpack-module-federation-banner
+	url = https://github.com/LukNasc/webpack-module-federation-banner.git
+[submodule "banner"]
+	path = banner
+	url = https://github.com/LukNasc/webpack-module-federation-banner.git
+[submodule "root"]
+	path = root
+	url = https://github.com/LukNasc/webpack-module-federation-root.git
